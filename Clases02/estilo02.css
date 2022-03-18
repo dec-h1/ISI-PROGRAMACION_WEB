@@ -12,3 +12,26 @@ p.ejemplo1{
 	font-weight: bold;
 	color: #830C66;
 }
+
+.tabla{
+    width: 800px;
+}
+
+.tabla{
+	width: 40%;
+}
+
+table thead tr {
+	height: 50px;
+}
+
+table tr td{
+	vertical-align: top;
+	padding: 10px
+}
+
+table tr th{
+	font-size: 20px;
+	font-style: italic;
+	text-align: left;
+}
