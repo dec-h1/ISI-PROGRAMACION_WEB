@@ -1,11 +1,14 @@
 h1{
-    color: #E9C116;
-    text-align: center;            
+	color: #E9C116;
+	text-align: center;
 }
-p{
-    color: blue;
+
+.titulo02{
+	text-align: center;
+	color: blue;
 }
-.titulo2{
-    text-align:center;
-    color : blue;
+
+p.ejemplo1{
+	font-weight: bold;
+	color: #830C66;
 }
